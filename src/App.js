@@ -7,6 +7,8 @@ import { useSpring, animated } from 'react-spring';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import { FaLeaf, FaBus, FaSolarPanel, FaBiking } from 'react-icons/fa';
+import { FaIconName } from 'react-icons/fa';
+
 import './i18n';
 
 // Air quality data for different locations in Medellín
