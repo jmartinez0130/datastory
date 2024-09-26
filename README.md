@@ -1,3 +1,3 @@
 # Medellin Data Story
 
-### Link to datastory : https://github.com/jmartinez0130/datastory
+### Link to datastory : [Medellin Datastory](https://medellinaqi.netlify.app/)
